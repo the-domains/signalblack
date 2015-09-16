@@ -1,6 +1,7 @@
 name: SignalBlack
 favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.19951
 cta:
   domain: null
   bucket: null
