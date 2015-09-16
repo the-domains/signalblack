@@ -5,7 +5,7 @@
         <description><![CDATA[SignalBlack]]></description>
         <link>https://thegrid.ai/signalblack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 17:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2015 17:52:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/signalblack/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -20,13 +20,6 @@
             <link>https://thegrid.ai/signalblack/8a51df82-df8c-4047-9990-b2cbba3405c3/index.html</link>
             <guid isPermaLink="false">8a51df82-df8c-4047-9990-b2cbba3405c3</guid>
             <pubDate>Wed, 16 Sep 2015 17:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62de8f75-cfd3-4766-9860-1dd47cd926e8.JPG">]]></description>
-            <link>https://thegrid.ai/signalblack/05f9fbe9-fd2f-4426-834d-1cea6d18b9e1/index.html</link>
-            <guid isPermaLink="false">05f9fbe9-fd2f-4426-834d-1cea6d18b9e1</guid>
-            <pubDate>Wed, 16 Sep 2015 17:44:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
