@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[SignalBlack]]></title>
         <description><![CDATA[SignalBlack]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/signalblack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 17:43:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Sep 2015 17:43:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/signalblack/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SignalBlack Logo]]></title>
+            <description><![CDATA[<article><h1>SignalBlack Logo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e657e609-2620-420b-bd81-4449ebb1aa4d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/signalblack/8a51df82-df8c-4047-9990-b2cbba3405c3/index.html</link>
+            <guid isPermaLink="false">8a51df82-df8c-4047-9990-b2cbba3405c3</guid>
+            <pubDate>Wed, 16 Sep 2015 17:43:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62de8f75-cfd3-4766-9860-1dd47cd926e8.JPG">]]></description>
-            <link>undefined05f9fbe9-fd2f-4426-834d-1cea6d18b9e1/index.html</link>
+            <link>https://thegrid.ai/signalblack/05f9fbe9-fd2f-4426-834d-1cea6d18b9e1/index.html</link>
             <guid isPermaLink="false">05f9fbe9-fd2f-4426-834d-1cea6d18b9e1</guid>
             <pubDate>Wed, 16 Sep 2015 17:43:45 GMT</pubDate>
         </item>
