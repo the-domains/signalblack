@@ -20,7 +20,7 @@ color:
     - '#e2e2e2'
     - '#ababab'
     - '#5d5d5d'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
